@@ -12,9 +12,10 @@ Job ID,Company,Job Title,Candidate,Status
 700,Factory,Senior Solutions Engineer (NY/SF),Ravi Garg,CV Sent
 754,Vega Security,Enterprise AE (PacNW),GEORGE MATHEW,1st Interview
 755,Vega Security,Enterprise AE (Mid-ATL),Jared Seavey,CV Sent
+766,Cogent Security,Enterprise Account Executive (US),Chris Gardner,CV Sent
 766,Cogent Security,Enterprise Account Executive (US),Jared Seavey,2nd Interview
-777,Adaptive6,SE Director,Hermann Hesse,1st Interview
 777,Adaptive6,SE Director,Christopher Hoesly,CV Sent
+777,Adaptive6,SE Director,Hermann Hesse,1st Interview
 777,Adaptive6,SE Director,Brendan Cox,2nd Interview
 787,Allium,Solutions Engineer,Silja Petasch,4th Interview
 791,Adaptive6,Head of Sales (US),Brian Henger,1st Interview
@@ -31,3 +32,5 @@ Job ID,Company,Job Title,Candidate,Status
 857,Adaptive6,Sales Engineer (Israel),Barak Abekasis,CV Sent
 857,Adaptive6,Sales Engineer (Israel),Nathan Hart,1st Interview
 857,Adaptive6,Sales Engineer (Israel),Rotem Froimovici,1st Interview
+869,Native Security,Enterprise Account Executive (Chicago),Brendan McMenimen,CV Sent
+869,Native Security,Enterprise Account Executive (Chicago),Chris Gardner,CV Sent
