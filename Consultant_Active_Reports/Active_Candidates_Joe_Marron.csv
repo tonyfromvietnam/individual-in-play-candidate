@@ -1,23 +1,21 @@
 Job ID,Company,Job Title,Candidate,Status
 591,Doxel.ai,CS1 Doxel - Enterprise AE Northeast U.S,Matt Crandley,3rd Interview
-652,Dash0,Enterprise AE PST,Christopher Gardner,CV Sent
-652,Dash0,Enterprise AE PST,Cris Castillo,CV Sent
+652,Dash0,Enterprise AE PST,Christopher Gardner,1st Interview
+652,Dash0,Enterprise AE PST,Cris Castillo,1st Interview
 652,Dash0,Enterprise AE PST,Michael McKinnon,CV Sent
-696,Cognition AI,Founding EMEA AE,Felix Völker,1st Interview
 738,Dash0,"Director of Commercial Sales, NYC/Boston",ROMIT MIRCHANDANI,1st Interview
 739,Axion Ray,BDR Manager (North East),Jackie Pratt,1st Interview
-739,Axion Ray,BDR Manager (North East),Vivian Wang,CV Sent
 740,Axion Ray,Enterprise Account Executive (East),Lindsay St.Cin,1st Interview
-746,LaunchDarkly,Enterprise Account Executive (Germany),Aron Kraft,1st Interview
-746,LaunchDarkly,Enterprise Account Executive (Germany),Florian Werner,2nd Interview
 746,LaunchDarkly,Enterprise Account Executive (Germany),Maximilian May,1st Interview
-751,Materialize,CS3 Materialize - Enterprise Account Executive x3,Christopher Gardner,CV Sent
+746,LaunchDarkly,Enterprise Account Executive (Germany),Florian Werner,2nd Interview
+746,LaunchDarkly,Enterprise Account Executive (Germany),Aron Kraft,1st Interview
+751,Materialize,CS3 Materialize - Enterprise Account Executive x3,Christopher Gardner,1st Interview
 765,groundcover,SDR,Benjamin Young,CV Sent
 765,groundcover,SDR,Sasha Bocek,1st Interview
-801,Redwood Software,Redwood AE Germany x 3,Thomas Schaeffer,CV Sent
-801,Redwood Software,Redwood AE Germany x 3,Leonard Friederich,4th Interview
-801,Redwood Software,Redwood AE Germany x 3,Konstantin Melzer,CV Sent
 801,Redwood Software,Redwood AE Germany x 3,Felix Völker,CV Sent
+801,Redwood Software,Redwood AE Germany x 3,Konstantin Melzer,CV Sent
+801,Redwood Software,Redwood AE Germany x 3,Thomas Schaeffer,CV Sent
+805,Dash0,Dash0 NYC SDR,Sasha Bocek,CV Sent
 805,Dash0,Dash0 NYC SDR,Benjamin Young,CV Sent
 805,Dash0,Dash0 NYC SDR,Blake Ulmer,1st Interview
 828,Laurel,BDR New York,Jack Paris,1st Interview
@@ -31,4 +29,6 @@ Job ID,Company,Job Title,Candidate,Status
 850,Laurel,Enterprise AE New York,Matt Crandley,2nd Interview
 871,LaunchDarkly,Strategic AE U.S,Michael McKinnon,CV Sent
 871,LaunchDarkly,Strategic AE U.S,Neal Hicks,CV Sent
+878,Dispatch,CS1 Dispatch - Enterprise AE x2,ROMIT MIRCHANDANI,CV Sent
 878,Dispatch,CS1 Dispatch - Enterprise AE x2,Christopher Gardner,CV Sent
+898,Dash0,Cognition - Founding AE Germany,Felix Völker,1st Interview
