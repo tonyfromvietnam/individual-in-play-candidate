@@ -1,20 +1,20 @@
-Job ID,Company,Job Title,Candidate,Status
-667,Antithesis,BDR,Brannon Olive,CV Sent
-667,Antithesis,BDR,Rachel Otto,2nd Interview
-680,Oscilar,Sales Engineer,JOHN FROST,4th Interview
-760,Impala,Head of Sales (NA),Patrick Racy,4th Interview
-765,groundcover,SDR,Rebecca Masters,1st Interview
-820,Silverfort,Nordics RSM,Niels Schülein,CV Sent
-821,Silverfort,DACH - RSM,Jochen Rummel,CV Sent
-821,Silverfort,DACH - RSM,Narinder Shetge,CV Sent
-835,Mintlify,TAM,Patrick Mackle,4th Interview
-835,Mintlify,TAM,Mona Maret,3rd Interview
-874,Accel Data,SA UK,Anthony Layton,CV Sent
-874,Accel Data,SA UK,ENES YILMAZER,CV Sent
-874,Accel Data,SA UK,Marcin Bednarczyk,1st Interview
-874,Accel Data,SA UK,Rohit Kumar,1st Interview
-875,Octopus Deploy,VP of Revenue Ops,Ben Galison,1st Interview
-875,Octopus Deploy,VP of Revenue Ops,Ajay Uppaluri,CV Sent
-875,Octopus Deploy,VP of Revenue Ops,Angus Kennedy,CV Sent
-875,Octopus Deploy,VP of Revenue Ops,Bastien Marduel,CV Sent
-881,CodeRabbit,RVP East,Matthew Duignan,1st Interview
+Job ID,Company,Job Title,Candidate,Status,Action Date
+667,Antithesis,BDR,Brannon Olive,CV Sent,2025-12-12
+667,Antithesis,BDR,Rachel Otto,2nd Interview,2026-01-14
+680,Oscilar,Sales Engineer,JOHN FROST,4th Interview,2025-12-12
+760,Impala,Head of Sales (NA),Patrick Racy,4th Interview,2025-12-19
+765,groundcover,SDR,Rebecca Masters,1st Interview,2025-12-19
+820,Silverfort,Nordics RSM,Niels Schülein,CV Sent,2026-01-13
+821,Silverfort,DACH - RSM,Jochen Rummel,CV Sent,2025-12-03
+821,Silverfort,DACH - RSM,Narinder Shetge,CV Sent,2025-12-04
+835,Mintlify,TAM,Patrick Mackle,4th Interview,2026-01-04
+835,Mintlify,TAM,Mona Maret,3rd Interview,2026-01-14
+874,Accel Data,SA UK,Anthony Layton,CV Sent,2026-01-13
+874,Accel Data,SA UK,ENES YILMAZER,CV Sent,2026-01-13
+874,Accel Data,SA UK,Marcin Bednarczyk,1st Interview,2026-01-10
+874,Accel Data,SA UK,Rohit Kumar,1st Interview,2026-01-07
+875,Octopus Deploy,VP of Revenue Ops,Ben Galison,1st Interview,2026-01-13
+875,Octopus Deploy,VP of Revenue Ops,Ajay Uppaluri,CV Sent,2026-01-13
+875,Octopus Deploy,VP of Revenue Ops,Angus Kennedy,CV Sent,2026-01-13
+875,Octopus Deploy,VP of Revenue Ops,Bastien Marduel,CV Sent,2026-01-09
+881,CodeRabbit,RVP East,Matthew Duignan,1st Interview,2026-01-08

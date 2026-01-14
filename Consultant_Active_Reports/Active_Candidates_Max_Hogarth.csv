@@ -1,30 +1,30 @@
-Job ID,Company,Job Title,Candidate,Status
-196,Blockaid,Enterprise Account Executive (Fintech),Jacob Neuhard,CV Sent
-416,Prime Security,Account Executive,David Chase,CV Sent
-541,Blockaid,CSM - Singapore,Adeline  Wong,2nd Interview
-572,Chainguard,Strategic Account Manager (Tola),Rich Kroll,CV Sent
-572,Chainguard,Strategic Account Manager (Tola),Todd Ferreira,CV Sent
-577,Oasis Security,TAM (East + Central),Aaron Lake,2nd Interview
-577,Oasis Security,TAM (East + Central),James Sandwick,CV Sent
-577,Oasis Security,TAM (East + Central),Vishal Soni,CV Sent
-617,Dash0,Commercial AE NYC,Daniel Mehta,CV Sent
-750,Novee.io,Enterprise Account Executive (US),Michael Kuelpman,CV Sent
-761,Mate Security,VP Sales - US,Amanda Parks,1st Interview
-761,Mate Security,VP Sales - US,Brad Rhodes,1st Interview
-761,Mate Security,VP Sales - US,Jeff Ross,2nd Interview
-761,Mate Security,VP Sales - US,John Marangos,1st Interview
-769,TraceBit,VP Sales NYC,Jourdan Loffredo,1st Interview
-770,TraceBit,Account Executive NYC,Helen Taylor,1st Interview
-770,TraceBit,Account Executive NYC,Jacob Neuhard,2nd Interview
-770,TraceBit,Account Executive NYC,Jameson Schwartz,2nd Interview
-770,TraceBit,Account Executive NYC,John Pavia,1st Interview
-770,TraceBit,Account Executive NYC,Tom Stenberg,CV Sent
-791,Adaptive6,Head of Sales (US),Andrew Kashin,CV Sent
-834,Blockaid,Regional Director US,Chris Dyer,CV Sent
-834,Blockaid,Regional Director US,Jeff White,1st Interview
-841,Maze,Technical Success Manager,Aaron Lake,4th Interview
-841,Maze,Technical Success Manager,Aaron Lake,4th Interview
-841,Maze,Technical Success Manager,Timothy Lekan,CV Sent
-843,Red Access,Enterprise Account Executive UK,Michele Maioli,3rd Interview
-847,Simile.ai,CS1 Simile.ai - Enterprise AE x2,Colby Perry,CV Sent
-870,Native Security,Enterprise Account Executive (North-East),Rich Kroll,1st Interview
+Job ID,Company,Job Title,Candidate,Status,Action Date
+196,Blockaid,Enterprise Account Executive (Fintech),Jacob Neuhard,CV Sent,2025-12-17
+416,Prime Security,Account Executive,David Chase,CV Sent,2025-12-05
+541,Blockaid,CSM - Singapore,Adeline  Wong,2nd Interview,2025-12-15
+572,Chainguard,Strategic Account Manager (Tola),Rich Kroll,CV Sent,2025-12-17
+572,Chainguard,Strategic Account Manager (Tola),Todd Ferreira,CV Sent,2025-11-25
+577,Oasis Security,TAM (East + Central),Aaron Lake,2nd Interview,2026-01-16
+577,Oasis Security,TAM (East + Central),James Sandwick,CV Sent,2026-01-05
+577,Oasis Security,TAM (East + Central),Vishal Soni,CV Sent,2026-01-07
+617,Dash0,Commercial AE NYC,Daniel Mehta,CV Sent,2025-11-25
+750,Novee.io,Enterprise Account Executive (US),Michael Kuelpman,CV Sent,2026-01-13
+761,Mate Security,VP Sales - US,Amanda Parks,1st Interview,2025-12-18
+761,Mate Security,VP Sales - US,Brad Rhodes,1st Interview,2026-01-14
+761,Mate Security,VP Sales - US,Jeff Ross,2nd Interview,2025-12-24
+761,Mate Security,VP Sales - US,John Marangos,1st Interview,2026-01-12
+769,TraceBit,VP Sales NYC,Jourdan Loffredo,1st Interview,2025-12-16
+770,TraceBit,Account Executive NYC,Helen Taylor,1st Interview,2026-01-20
+770,TraceBit,Account Executive NYC,Jacob Neuhard,2nd Interview,2026-01-13
+770,TraceBit,Account Executive NYC,Jameson Schwartz,2nd Interview,2025-12-10
+770,TraceBit,Account Executive NYC,John Pavia,1st Interview,2026-01-13
+770,TraceBit,Account Executive NYC,Tom Stenberg,CV Sent,2026-01-06
+791,Adaptive6,Head of Sales (US),Andrew Kashin,CV Sent,2025-12-19
+834,Blockaid,Regional Director US,Chris Dyer,CV Sent,2025-12-03
+834,Blockaid,Regional Director US,Jeff White,1st Interview,2025-12-08
+841,Maze,Technical Success Manager,Aaron Lake,4th Interview,2025-12-30
+841,Maze,Technical Success Manager,Aaron Lake,4th Interview,2026-01-12
+841,Maze,Technical Success Manager,Timothy Lekan,CV Sent,2026-01-05
+843,Red Access,Enterprise Account Executive UK,Michele Maioli,3rd Interview,2026-01-08
+847,Simile.ai,CS1 Simile.ai - Enterprise AE x2,Colby Perry,CV Sent,2025-12-17
+870,Native Security,Enterprise Account Executive (North-East),Rich Kroll,1st Interview,2026-01-07

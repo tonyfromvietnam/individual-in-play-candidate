@@ -1,19 +1,19 @@
-Job ID,Company,Job Title,Candidate,Status
-528,Antithesis,Enterprise Account Executive - West,LUIS MARTINEZ,CV Sent
-594,Antithesis,Enterprise Account Executive,Roman Schachter,2nd Interview
-827,Laurel,BDR UK,Jacob Yeshitila,1st Interview
-827,Laurel,BDR UK,James Edmonds,3rd Interview
-827,Laurel,BDR UK,Mishael Kusi-Yeboah,1st Interview
-828,Laurel,BDR New York,LEXI LOVE,CV Sent
-853,Laurel,Customer Success Manager UK,Clara Bauby,1st Interview
-853,Laurel,Customer Success Manager UK,STEVEN FAHMY,2nd Interview
-854,Laurel,Account Manager UK,Adam Day,3rd Interview
-855,Laurel,Customer Success Manager New York,Dominic Martin,1st Interview
-855,Laurel,Customer Success Manager New York,JUSTIN BRACH,1st Interview
-855,Laurel,Customer Success Manager New York,Mollie Gaylor,CV Sent
-867,CyCognito,CSM UK,Fiona Leonard,3rd Interview
-876,CyCognito,Sales Engineer Texas,Justin Moss,CV Sent
-876,CyCognito,Sales Engineer Texas,MARC BENEDEK,1st Interview
-876,CyCognito,Sales Engineer Texas,Michael Smith,1st Interview
-876,CyCognito,Sales Engineer Texas,Rob Johnson,1st Interview
-876,CyCognito,Sales Engineer Texas,Sam Hancock,CV Sent
+Job ID,Company,Job Title,Candidate,Status,Action Date
+528,Antithesis,Enterprise Account Executive - West,LUIS MARTINEZ,CV Sent,2025-11-26
+594,Antithesis,Enterprise Account Executive,Roman Schachter,2nd Interview,2026-01-06
+827,Laurel,BDR UK,Jacob Yeshitila,1st Interview,2026-01-07
+827,Laurel,BDR UK,James Edmonds,3rd Interview,2026-01-15
+827,Laurel,BDR UK,Mishael Kusi-Yeboah,1st Interview,2026-01-15
+828,Laurel,BDR New York,LEXI LOVE,CV Sent,2026-01-08
+853,Laurel,Customer Success Manager UK,Clara Bauby,1st Interview,2026-01-13
+853,Laurel,Customer Success Manager UK,STEVEN FAHMY,2nd Interview,2025-12-23
+854,Laurel,Account Manager UK,Adam Day,3rd Interview,2026-01-15
+855,Laurel,Customer Success Manager New York,Dominic Martin,1st Interview,2026-01-08
+855,Laurel,Customer Success Manager New York,JUSTIN BRACH,1st Interview,2026-01-21
+855,Laurel,Customer Success Manager New York,Mollie Gaylor,CV Sent,2026-01-09
+867,CyCognito,CSM UK,Fiona Leonard,3rd Interview,2026-01-12
+876,CyCognito,Sales Engineer Texas,Justin Moss,CV Sent,2026-01-07
+876,CyCognito,Sales Engineer Texas,MARC BENEDEK,1st Interview,2026-01-15
+876,CyCognito,Sales Engineer Texas,Michael Smith,1st Interview,2026-01-14
+876,CyCognito,Sales Engineer Texas,Rob Johnson,1st Interview,2026-01-16
+876,CyCognito,Sales Engineer Texas,Sam Hancock,CV Sent,2026-01-12

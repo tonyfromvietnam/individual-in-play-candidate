@@ -1,11 +1,11 @@
-Job ID,Company,Job Title,Candidate,Status
-591,Doxel.ai,CS1 Doxel - Enterprise AE Northeast U.S,Dan DiPalma,2nd Interview
-591,Doxel.ai,CS1 Doxel - Enterprise AE Northeast U.S,Drew Kinsella,CV Sent
-591,Doxel.ai,CS1 Doxel - Enterprise AE Northeast U.S,Sarena Lynch,CV Sent
-681,Metaview,Metaview - UK MM / Enterprise AE,Alex Ross,CV Sent
-782,Port,Enterprise AE,Jonathan  McGuinness,1st Interview
-831,Octopus Deploy,Enterprise Account Executive  (French Speaking),Marta Lupparelli,1st Interview
-831,Octopus Deploy,Enterprise Account Executive  (French Speaking),Nicolas Giboulot,3rd Interview
-831,Octopus Deploy,Enterprise Account Executive  (French Speaking),Vittorio Straticò,3rd Interview
-847,Simile.ai,CS1 Simile.ai - Enterprise AE x2,Robert Bedetti,1st Interview
-871,LaunchDarkly,Strategic AE U.S,Dan DiPalma,CV Sent
+Job ID,Company,Job Title,Candidate,Status,Action Date
+591,Doxel.ai,CS1 Doxel - Enterprise AE Northeast U.S,Dan DiPalma,2nd Interview,2025-12-19
+591,Doxel.ai,CS1 Doxel - Enterprise AE Northeast U.S,Drew Kinsella,CV Sent,2026-01-09
+591,Doxel.ai,CS1 Doxel - Enterprise AE Northeast U.S,Sarena Lynch,CV Sent,2026-01-09
+681,Metaview,Metaview - UK MM / Enterprise AE,Alex Ross,CV Sent,2026-01-08
+782,Port,Enterprise AE,Jonathan  McGuinness,1st Interview,2026-01-05
+831,Octopus Deploy,Enterprise Account Executive  (French Speaking),Marta Lupparelli,1st Interview,2025-12-22
+831,Octopus Deploy,Enterprise Account Executive  (French Speaking),Nicolas Giboulot,3rd Interview,2026-01-09
+831,Octopus Deploy,Enterprise Account Executive  (French Speaking),Vittorio Straticò,3rd Interview,2026-01-14
+847,Simile.ai,CS1 Simile.ai - Enterprise AE x2,Robert Bedetti,1st Interview,2026-01-09
+871,LaunchDarkly,Strategic AE U.S,Dan DiPalma,CV Sent,2025-12-19

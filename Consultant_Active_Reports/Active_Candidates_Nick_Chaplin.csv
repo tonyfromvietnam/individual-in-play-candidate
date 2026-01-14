@@ -1,7 +1,7 @@
-Job ID,Company,Job Title,Candidate,Status
-760,Impala,Head of Sales (NA),Charles  Passalacqua,1st Interview
-765,groundcover,SDR,Noah  Brown,CV Sent
-805,Dash0,Dash0 NYC SDR,Noah  Brown,CV Sent
-810,groundcover,"Mid-Market AE (Observability in NYC, Boston, Denver, SF)",Jeffrey Pereira,3rd Interview
-847,Simile.ai,CS1 Simile.ai - Enterprise AE x2,Robert Haley,1st Interview
-862,Orca Ai,Enterprise Account Executive (EMEA),Björn Bender,CV Sent
+Job ID,Company,Job Title,Candidate,Status,Action Date
+760,Impala,Head of Sales (NA),Charles  Passalacqua,1st Interview,2025-12-30
+765,groundcover,SDR,Noah  Brown,CV Sent,2026-01-14
+805,Dash0,Dash0 NYC SDR,Noah  Brown,CV Sent,2026-01-14
+810,groundcover,"Mid-Market AE (Observability in NYC, Boston, Denver, SF)",Jeffrey Pereira,3rd Interview,2026-01-12
+847,Simile.ai,CS1 Simile.ai - Enterprise AE x2,Robert Haley,1st Interview,2025-12-18
+862,Orca Ai,Enterprise Account Executive (EMEA),Björn Bender,CV Sent,2025-12-23

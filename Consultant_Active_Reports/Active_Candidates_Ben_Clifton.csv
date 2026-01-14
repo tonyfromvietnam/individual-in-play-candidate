@@ -1,20 +1,20 @@
-Job ID,Company,Job Title,Candidate,Status
-196,Blockaid,Enterprise Account Executive (Fintech),Madyson Almeida,2nd Interview
-196,Blockaid,Enterprise Account Executive (Fintech),Mike Gomez,1st Interview
-484,Cognition AI,Enterprise Account Executive (US),Andrew Rydalch,2nd Interview
-591,Doxel.ai,CS1 Doxel - Enterprise AE Northeast U.S,Mike Gomez,4th Interview
-633,Factory,CS1 Factory - Enterprise AE,Tiffany Shih,3rd Interview
-652,Dash0,Enterprise AE PST,Mike Gomez,2nd Interview
-750,Novee.io,Enterprise Account Executive (US),Alex Humphries,1st Interview
-750,Novee.io,Enterprise Account Executive (US),Brad White,CV Sent
-750,Novee.io,Enterprise Account Executive (US),Carly Prunier,CV Sent
-757,Blockaid,CS2 - SDR (Singapore),Hayoung Kim,1st Interview
-757,Blockaid,CS2 - SDR (Singapore),Annisa Mareizky,1st Interview
-783,Port,Mid-Market AE,Andy Evans,1st Interview
-783,Port,Mid-Market AE,Shahz Shuja,4th Interview
-813,Laurel,Enterprise Account Executive UK x4,Max Curtis,1st Interview
-862,Orca Ai,Enterprise Account Executive (EMEA),Max Curtis,CV Sent
-865,Accel Data,Enterprise Account Executive,Abrahem Iya,2nd Interview
-865,Accel Data,Enterprise Account Executive,Martin Zysnarski,2nd Interview
-865,Accel Data,Enterprise Account Executive,Sultan Miah,3rd Interview
-869,Native Security,Enterprise Account Executive (Chicago),Conor Dunne,CV Sent
+Job ID,Company,Job Title,Candidate,Status,Action Date
+196,Blockaid,Enterprise Account Executive (Fintech),Madyson Almeida,2nd Interview,2025-12-03
+196,Blockaid,Enterprise Account Executive (Fintech),Mike Gomez,1st Interview,2025-12-01
+484,Cognition AI,Enterprise Account Executive (US),Andrew Rydalch,2nd Interview,2026-01-09
+591,Doxel.ai,CS1 Doxel - Enterprise AE Northeast U.S,Mike Gomez,4th Interview,2026-01-14
+633,Factory,CS1 Factory - Enterprise AE,Tiffany Shih,3rd Interview,2026-01-07
+652,Dash0,Enterprise AE PST,Mike Gomez,2nd Interview,2026-01-07
+750,Novee.io,Enterprise Account Executive (US),Alex Humphries,1st Interview,2026-01-14
+750,Novee.io,Enterprise Account Executive (US),Brad White,CV Sent,2026-01-08
+750,Novee.io,Enterprise Account Executive (US),Carly Prunier,CV Sent,2026-01-08
+757,Blockaid,CS2 - SDR (Singapore),Hayoung Kim,1st Interview,2025-12-05
+757,Blockaid,CS2 - SDR (Singapore),Annisa Mareizky,1st Interview,2025-12-15
+783,Port,Mid-Market AE,Andy Evans,1st Interview,2025-12-18
+783,Port,Mid-Market AE,Shahz Shuja,4th Interview,2026-01-06
+813,Laurel,Enterprise Account Executive UK x4,Max Curtis,1st Interview,2026-01-16
+862,Orca Ai,Enterprise Account Executive (EMEA),Max Curtis,CV Sent,2026-01-12
+865,Accel Data,Enterprise Account Executive,Abrahem Iya,2nd Interview,2026-01-15
+865,Accel Data,Enterprise Account Executive,Martin Zysnarski,2nd Interview,2026-01-16
+865,Accel Data,Enterprise Account Executive,Sultan Miah,3rd Interview,2026-01-09
+869,Native Security,Enterprise Account Executive (Chicago),Conor Dunne,CV Sent,2026-01-08

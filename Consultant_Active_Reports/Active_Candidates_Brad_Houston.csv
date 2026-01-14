@@ -1,37 +1,37 @@
-Job ID,Company,Job Title,Candidate,Status
-274,Blockaid,Senior Sales Engineer (US),Silja Petasch,1st Interview
-416,Prime Security,Account Executive,Paul Hickey,1st Interview
-462,Blockaid,CS2 - Blockaid - Technical Account Manager (New York),Olivia Lo,1st Interview
-462,Blockaid,CS2 - Blockaid - Technical Account Manager (New York),Sean MacWilliams,CV Sent
-532,Blockaid,Sales Engineer (APAC),Zhen Lee,2nd Interview
-750,Novee.io,Enterprise Account Executive (US),Jared Seavey,1st Interview
-754,Vega Security,Enterprise AE (West),Imran Mahmood,CV Sent
-766,Cogent Security,Enterprise Account Executive (US),Jared Seavey,3rd Interview
-777,Adaptive6,SE Director,Hermann Hesse,1st Interview
-777,Adaptive6,SE Director,Brendan Cox,2nd Interview
-777,Adaptive6,SE Director,Christopher Hoesly,CV Sent
-787,Allium,Solutions Engineer,Silja Petasch,4th Interview
-817,Oasis Security,Senior Sales Engineer (West/Mountain),Erik Staley,2nd Interview
-817,Oasis Security,Senior Sales Engineer (West/Mountain),Mary Greenlee,1st Interview
-823,TraceBit,Sales Engineer,Ian Campbell,2nd Interview
-823,TraceBit,Sales Engineer,Jonathan Sabo,CV Sent
-824,Blockaid,Technical Account Manager,Derek Appleby,4th Interview
-840,Blockaid,Head of EMEA,Daniel Lattimer,CV Sent
-840,Blockaid,Head of EMEA,Anthony Yeung,3rd Interview
-852,Blockaid,Sales Enablement Manager,Brad Chrisakis,CV Sent
-852,Blockaid,Sales Enablement Manager,Caitlin Litscher,1st Interview
-852,Blockaid,Sales Enablement Manager,Carter Reincke,1st Interview
-852,Blockaid,Sales Enablement Manager,Edwin Artiles,CV Sent
-852,Blockaid,Sales Enablement Manager,Renée-Claude Thériault,1st Interview
-852,Blockaid,Sales Enablement Manager,Renée-Claude Thériault,1st Interview
-857,Adaptive6,Sales Engineer (Israel),Nathan Hart,2nd Interview
-857,Adaptive6,Sales Engineer (Israel),Rotem Froimovici,1st Interview
-857,Adaptive6,Sales Engineer (Israel),Barak Abekasis,1st Interview
-869,Native Security,Enterprise Account Executive (Chicago),Chris Gardner,1st Interview
-879,Blockaid,CS2 - Senior SE,Joshua Lewis,1st Interview
-879,Blockaid,CS2 - Senior SE,Kristina T.,CV Sent
-880,Blockaid,CS2 - Support Engineer,Benjamin Eddy,CV Sent
-880,Blockaid,CS2 - Support Engineer,Mateus Rogienfisz,3rd Interview
-892,Adaptive6,Regional Director (EMEA + APAC),Pablo Gutt,1st Interview
-892,Adaptive6,Regional Director (EMEA + APAC),Oded Aharon,1st Interview
-900,Native Security,Senior SE (East Coast),Jonathan Sabo,CV Sent
+Job ID,Company,Job Title,Candidate,Status,Action Date
+274,Blockaid,Senior Sales Engineer (US),Silja Petasch,1st Interview,2025-11-13
+416,Prime Security,Account Executive,Paul Hickey,1st Interview,2026-01-08
+462,Blockaid,CS2 - Blockaid - Technical Account Manager (New York),Olivia Lo,1st Interview,2025-11-11
+462,Blockaid,CS2 - Blockaid - Technical Account Manager (New York),Sean MacWilliams,CV Sent,2025-10-19
+532,Blockaid,Sales Engineer (APAC),Zhen Lee,2nd Interview,2025-11-04
+750,Novee.io,Enterprise Account Executive (US),Jared Seavey,1st Interview,2026-01-11
+754,Vega Security,Enterprise AE (West),Imran Mahmood,CV Sent,2025-12-19
+766,Cogent Security,Enterprise Account Executive (US),Jared Seavey,3rd Interview,2026-01-13
+777,Adaptive6,SE Director,Hermann Hesse,1st Interview,2025-12-09
+777,Adaptive6,SE Director,Brendan Cox,2nd Interview,2025-12-08
+777,Adaptive6,SE Director,Christopher Hoesly,CV Sent,2025-12-05
+787,Allium,Solutions Engineer,Silja Petasch,4th Interview,2025-12-08
+817,Oasis Security,Senior Sales Engineer (West/Mountain),Erik Staley,2nd Interview,2025-12-08
+817,Oasis Security,Senior Sales Engineer (West/Mountain),Mary Greenlee,1st Interview,2025-11-24
+823,TraceBit,Sales Engineer,Ian Campbell,2nd Interview,2025-12-23
+823,TraceBit,Sales Engineer,Jonathan Sabo,CV Sent,2026-01-12
+824,Blockaid,Technical Account Manager,Derek Appleby,4th Interview,2026-01-02
+840,Blockaid,Head of EMEA,Daniel Lattimer,CV Sent,2025-12-12
+840,Blockaid,Head of EMEA,Anthony Yeung,3rd Interview,2026-01-09
+852,Blockaid,Sales Enablement Manager,Brad Chrisakis,CV Sent,2026-01-12
+852,Blockaid,Sales Enablement Manager,Caitlin Litscher,1st Interview,2025-12-22
+852,Blockaid,Sales Enablement Manager,Carter Reincke,1st Interview,2026-01-12
+852,Blockaid,Sales Enablement Manager,Edwin Artiles,CV Sent,2026-01-13
+852,Blockaid,Sales Enablement Manager,Renée-Claude Thériault,1st Interview,2026-01-20
+852,Blockaid,Sales Enablement Manager,Renée-Claude Thériault,1st Interview,2026-01-20
+857,Adaptive6,Sales Engineer (Israel),Nathan Hart,2nd Interview,2025-12-19
+857,Adaptive6,Sales Engineer (Israel),Rotem Froimovici,1st Interview,2025-12-15
+857,Adaptive6,Sales Engineer (Israel),Barak Abekasis,1st Interview,2025-12-22
+869,Native Security,Enterprise Account Executive (Chicago),Chris Gardner,1st Interview,2025-12-22
+879,Blockaid,CS2 - Senior SE,Joshua Lewis,1st Interview,2026-01-07
+879,Blockaid,CS2 - Senior SE,Kristina T.,CV Sent,2026-01-09
+880,Blockaid,CS2 - Support Engineer,Benjamin Eddy,CV Sent,2026-01-07
+880,Blockaid,CS2 - Support Engineer,Mateus Rogienfisz,3rd Interview,2026-01-11
+892,Adaptive6,Regional Director (EMEA + APAC),Pablo Gutt,1st Interview,2026-01-18
+892,Adaptive6,Regional Director (EMEA + APAC),Oded Aharon,1st Interview,2026-01-09
+900,Native Security,Senior SE (East Coast),Jonathan Sabo,CV Sent,2026-01-12

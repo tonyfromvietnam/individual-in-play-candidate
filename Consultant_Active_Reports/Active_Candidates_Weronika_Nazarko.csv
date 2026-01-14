@@ -1,23 +1,23 @@
-Job ID,Company,Job Title,Candidate,Status
-580,Legion Security,Sales Engineer (US),Michael Saladino,3rd Interview
-580,Legion Security,Sales Engineer (US),Miller Kinlin,1st Interview
-673,Redwood Software,SE UK,Joseph Falvey,1st Interview
-673,Redwood Software,SE UK,Mathieu Rudge,CV Sent
-673,Redwood Software,SE UK,Morgan Lillie,CV Sent
-707,Dash0,"Sales Engineer EMEA (UK, Nordics, Benelux, Germany) x 2",Harry Kimpel,2nd Interview
-707,Dash0,"Sales Engineer EMEA (UK, Nordics, Benelux, Germany) x 2",Michael Sand,1st Interview
-745,Blink Ops,Senior Sales Engineer (Mid-ATL),Miller Kinlin,1st Interview
-745,Blink Ops,Senior Sales Engineer (Mid-ATL),Mark Seay,CV Sent
-745,Blink Ops,Senior Sales Engineer (Mid-ATL),Jordan Pawletzki,1st Interview
-745,Blink Ops,Senior Sales Engineer (Mid-ATL),Jordan Hammer,CV Sent
-745,Blink Ops,Senior Sales Engineer (Mid-ATL),Frank Lulgjuraj,CV Sent
-745,Blink Ops,Senior Sales Engineer (Mid-ATL),Dustin Barott,CV Sent
-745,Blink Ops,Senior Sales Engineer (Mid-ATL),Bryan Flores,CV Sent
-849,Oasis Security,Director of Product Marketing,Alex Spiliotes,3rd Interview
-849,Oasis Security,Director of Product Marketing,Dominic Garcia,CV Sent
-849,Oasis Security,Director of Product Marketing,Erin Duncan,1st Interview
-849,Oasis Security,Director of Product Marketing,Fareed Bukhari,1st Interview
-849,Oasis Security,Director of Product Marketing,Luke Luckett,1st Interview
-849,Oasis Security,Director of Product Marketing,Mark Brozek,CV Sent
-866,CyCognito,BDR US,Bryce Morais,CV Sent
-876,CyCognito,Sales Engineer Texas,Mark Seay,1st Interview
+Job ID,Company,Job Title,Candidate,Status,Action Date
+580,Legion Security,Sales Engineer (US),Michael Saladino,3rd Interview,2026-01-13
+580,Legion Security,Sales Engineer (US),Miller Kinlin,1st Interview,2026-01-13
+673,Redwood Software,SE UK,Joseph Falvey,1st Interview,2025-12-17
+673,Redwood Software,SE UK,Mathieu Rudge,CV Sent,2026-01-06
+673,Redwood Software,SE UK,Morgan Lillie,CV Sent,2026-01-12
+707,Dash0,"Sales Engineer EMEA (UK, Nordics, Benelux, Germany) x 2",Harry Kimpel,2nd Interview,2025-12-15
+707,Dash0,"Sales Engineer EMEA (UK, Nordics, Benelux, Germany) x 2",Michael Sand,1st Interview,2026-01-14
+745,Blink Ops,Senior Sales Engineer (Mid-ATL),Miller Kinlin,1st Interview,2026-01-14
+745,Blink Ops,Senior Sales Engineer (Mid-ATL),Mark Seay,CV Sent,2026-01-13
+745,Blink Ops,Senior Sales Engineer (Mid-ATL),Jordan Pawletzki,1st Interview,2026-01-09
+745,Blink Ops,Senior Sales Engineer (Mid-ATL),Jordan Hammer,CV Sent,2026-01-12
+745,Blink Ops,Senior Sales Engineer (Mid-ATL),Frank Lulgjuraj,CV Sent,2026-01-13
+745,Blink Ops,Senior Sales Engineer (Mid-ATL),Dustin Barott,CV Sent,2026-01-06
+745,Blink Ops,Senior Sales Engineer (Mid-ATL),Bryan Flores,CV Sent,2026-01-13
+849,Oasis Security,Director of Product Marketing,Alex Spiliotes,3rd Interview,2026-01-16
+849,Oasis Security,Director of Product Marketing,Dominic Garcia,CV Sent,2026-01-07
+849,Oasis Security,Director of Product Marketing,Erin Duncan,1st Interview,2026-01-14
+849,Oasis Security,Director of Product Marketing,Fareed Bukhari,1st Interview,2026-01-15
+849,Oasis Security,Director of Product Marketing,Luke Luckett,1st Interview,2026-01-13
+849,Oasis Security,Director of Product Marketing,Mark Brozek,CV Sent,2026-01-12
+866,CyCognito,BDR US,Bryce Morais,CV Sent,2025-12-18
+876,CyCognito,Sales Engineer Texas,Mark Seay,1st Interview,2026-01-14

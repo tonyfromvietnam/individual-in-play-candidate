@@ -1,9 +1,9 @@
-Job ID,Company,Job Title,Candidate,Status
-721,Rox,ENT AE East,Alex Harvey,1st Interview
-724,Rox,ENT AE San Fran,Daniel Rodriquez,2nd Interview
-786,LanceDB,Enterprise Account Executive SF,Matt Behr,CV Sent
-786,LanceDB,Enterprise Account Executive SF,Stephen Burd,2nd Interview
-804,Orca Ai,Enterprise Account Executive Singapore x2,Joanne Wah,3rd Interview
-859,Orca Ai,Director of APAC,David Zhao,1st Interview
-859,Orca Ai,Director of APAC,Vivaan Seth,1st Interview
-878,Dispatch,CS1 Dispatch - Enterprise AE x2,Darrell Van Dyken,CV Sent
+Job ID,Company,Job Title,Candidate,Status,Action Date
+721,Rox,ENT AE East,Alex Harvey,1st Interview,2026-01-09
+724,Rox,ENT AE San Fran,Daniel Rodriquez,2nd Interview,2026-01-13
+786,LanceDB,Enterprise Account Executive SF,Matt Behr,CV Sent,2026-01-13
+786,LanceDB,Enterprise Account Executive SF,Stephen Burd,2nd Interview,2026-01-09
+804,Orca Ai,Enterprise Account Executive Singapore x2,Joanne Wah,3rd Interview,2026-01-06
+859,Orca Ai,Director of APAC,David Zhao,1st Interview,2026-01-14
+859,Orca Ai,Director of APAC,Vivaan Seth,1st Interview,2026-01-08
+878,Dispatch,CS1 Dispatch - Enterprise AE x2,Darrell Van Dyken,CV Sent,2026-01-13

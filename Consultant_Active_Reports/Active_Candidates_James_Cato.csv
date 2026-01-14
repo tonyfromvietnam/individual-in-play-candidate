@@ -1,11 +1,11 @@
-Job ID,Company,Job Title,Candidate,Status
-721,Rox,ENT AE East,Derek Pompea,1st Interview
-811,Navan,ENT AE (Boston + NYC),Tom Andrews,1st Interview
-829,Rox,Sales Engineer (NY / Austin / SF),Catherine LaChapelle,2nd Interview
-830,Loop,Customer Operations Manager,Geoffre Lavy,3rd Interview
-830,Loop,Customer Operations Manager,Gilbert Pasquale,3rd Interview
-830,Loop,Customer Operations Manager,Pat Ingersoll,4th Interview
-881,CodeRabbit,RVP East,Graham Leman,1st Interview
-881,CodeRabbit,RVP East,Tim Lang,2nd Interview
-882,CodeRabbit,RVP West,Alex Khoshgebari,1st Interview
-882,CodeRabbit,RVP West,Maria Doucedame,1st Interview
+Job ID,Company,Job Title,Candidate,Status,Action Date
+721,Rox,ENT AE East,Derek Pompea,1st Interview,2026-01-13
+811,Navan,ENT AE (Boston + NYC),Tom Andrews,1st Interview,2025-11-21
+829,Rox,Sales Engineer (NY / Austin / SF),Catherine LaChapelle,2nd Interview,2025-12-12
+830,Loop,Customer Operations Manager,Geoffre Lavy,3rd Interview,2026-01-07
+830,Loop,Customer Operations Manager,Gilbert Pasquale,3rd Interview,2026-01-09
+830,Loop,Customer Operations Manager,Pat Ingersoll,4th Interview,2026-01-13
+881,CodeRabbit,RVP East,Graham Leman,1st Interview,2026-01-14
+881,CodeRabbit,RVP East,Tim Lang,2nd Interview,2026-01-13
+882,CodeRabbit,RVP West,Alex Khoshgebari,1st Interview,2026-01-12
+882,CodeRabbit,RVP West,Maria Doucedame,1st Interview,2026-01-27

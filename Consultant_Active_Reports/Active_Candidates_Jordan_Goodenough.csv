@@ -1,39 +1,39 @@
-Job ID,Company,Job Title,Candidate,Status
-484,Cognition AI,Enterprise Account Executive (US),Ankita Sharma,2nd Interview
-484,Cognition AI,Enterprise Account Executive (US),Bryan Zelle,1st Interview
-484,Cognition AI,Enterprise Account Executive (US),Chris McMahon,1st Interview
-484,Cognition AI,Enterprise Account Executive (US),Dan Simon,CV Sent
-484,Cognition AI,Enterprise Account Executive (US),Mitchell Mecum,1st Interview
-484,Cognition AI,Enterprise Account Executive (US),Neil Holaday,1st Interview
-484,Cognition AI,Enterprise Account Executive (US),Nick van Nispen,CV Sent
-484,Cognition AI,Enterprise Account Executive (US),Rubén García Vilrriales,CV Sent
-591,Doxel.ai,CS1 Doxel - Enterprise AE Northeast U.S,Paul Plofchan,1st Interview
-591,Doxel.ai,CS1 Doxel - Enterprise AE Northeast U.S,Michael Bergstrom,1st Interview
-656,UnifyApps,UnifyApps - US Enterprise AE,Nave Brar,3rd Interview
-696,Cognition AI,Founding EMEA AE,Abhay Soorya,2nd Interview
-696,Cognition AI,Founding EMEA AE,Diana Rautner,3rd Interview
-696,Cognition AI,Founding EMEA AE,Emanuel Sanchez,1st Interview
-696,Cognition AI,Founding EMEA AE,Jaime Valadao,2nd Interview
-696,Cognition AI,Founding EMEA AE,Rhys Westall,1st Interview
-702,Cognition AI,Forward Deployed Engineer / Sales Engineer (UK),Joern Messner,2nd Interview
-722,Rox,ENT AE Austin,Michael Bergstrom,1st Interview
-740,Axion Ray,Enterprise Account Executive (East),Joshua Easley,CV Sent
-751,Materialize,CS3 Materialize - Enterprise Account Executive x3,Kevin Morel,CV Sent
-751,Materialize,CS3 Materialize - Enterprise Account Executive x3,Michael Bergstrom,1st Interview
-751,Materialize,CS3 Materialize - Enterprise Account Executive x3,Zane Aitken,CV Sent
-813,Laurel,Enterprise Account Executive UK x4,Alex Jollivet,CV Sent
-815,Conduct AI,Enterprise Account Executive UK,Abhay Soorya,2nd Interview
-815,Conduct AI,Enterprise Account Executive UK,Rudi Willner,2nd Interview
-822,UnifyApps,UnifyApps - ME / KSA EAE,Rawad Zaki,1st Interview
-842,Metaview,Metaview - EMEA SMB / MM leader,Jamie Glenie,CV Sent
-842,Metaview,Metaview - EMEA SMB / MM leader,Malik Benzenine,1st Interview
-847,Simile.ai,CS1 Simile.ai - Enterprise AE x2,Omri Nevat,3rd Interview
-850,Laurel,Enterprise AE New York,Sanat Valecha,2nd Interview
-865,Accel Data,Enterprise Account Executive,Rudi Willner,CV Sent
-871,LaunchDarkly,Strategic AE U.S,Paul Plofchan,1st Interview
-878,Dispatch,CS1 Dispatch - Enterprise AE x2,Paul Plofchan,1st Interview
-878,Dispatch,CS1 Dispatch - Enterprise AE x2,Sanat Valecha,1st Interview
-893,Cognition AI,RVP DACH,Patrick Siffert,1st Interview
-896,Cognition AI,Cognition Founding AE France,Daniel CAMPO,1st Interview
-897,Cognition AI,Cognition Founding AE Benelux,Jelte Eshuis,1st Interview
-897,Cognition AI,Cognition Founding AE Benelux,Sjoerd Van Meulen,CV Sent
+Job ID,Company,Job Title,Candidate,Status,Action Date
+484,Cognition AI,Enterprise Account Executive (US),Ankita Sharma,2nd Interview,2025-11-24
+484,Cognition AI,Enterprise Account Executive (US),Bryan Zelle,1st Interview,2026-01-04
+484,Cognition AI,Enterprise Account Executive (US),Chris McMahon,1st Interview,2025-12-23
+484,Cognition AI,Enterprise Account Executive (US),Dan Simon,CV Sent,2026-01-05
+484,Cognition AI,Enterprise Account Executive (US),Mitchell Mecum,1st Interview,2026-01-14
+484,Cognition AI,Enterprise Account Executive (US),Neil Holaday,1st Interview,2025-12-16
+484,Cognition AI,Enterprise Account Executive (US),Nick van Nispen,CV Sent,2025-12-17
+484,Cognition AI,Enterprise Account Executive (US),Rubén García Vilrriales,CV Sent,2025-12-22
+591,Doxel.ai,CS1 Doxel - Enterprise AE Northeast U.S,Paul Plofchan,1st Interview,2026-01-09
+591,Doxel.ai,CS1 Doxel - Enterprise AE Northeast U.S,Michael Bergstrom,1st Interview,2026-01-14
+656,UnifyApps,UnifyApps - US Enterprise AE,Nave Brar,3rd Interview,2025-12-10
+696,Cognition AI,Founding EMEA AE,Abhay Soorya,2nd Interview,2025-12-15
+696,Cognition AI,Founding EMEA AE,Diana Rautner,3rd Interview,2025-12-21
+696,Cognition AI,Founding EMEA AE,Emanuel Sanchez,1st Interview,2025-12-22
+696,Cognition AI,Founding EMEA AE,Jaime Valadao,2nd Interview,2026-01-09
+696,Cognition AI,Founding EMEA AE,Rhys Westall,1st Interview,2026-01-16
+702,Cognition AI,Forward Deployed Engineer / Sales Engineer (UK),Joern Messner,2nd Interview,2025-12-02
+722,Rox,ENT AE Austin,Michael Bergstrom,1st Interview,2026-01-12
+740,Axion Ray,Enterprise Account Executive (East),Joshua Easley,CV Sent,2025-11-26
+751,Materialize,CS3 Materialize - Enterprise Account Executive x3,Kevin Morel,CV Sent,2026-01-14
+751,Materialize,CS3 Materialize - Enterprise Account Executive x3,Michael Bergstrom,1st Interview,2026-01-12
+751,Materialize,CS3 Materialize - Enterprise Account Executive x3,Zane Aitken,CV Sent,2026-01-06
+813,Laurel,Enterprise Account Executive UK x4,Alex Jollivet,CV Sent,2026-01-13
+815,Conduct AI,Enterprise Account Executive UK,Abhay Soorya,2nd Interview,2025-12-19
+815,Conduct AI,Enterprise Account Executive UK,Rudi Willner,2nd Interview,2025-12-19
+822,UnifyApps,UnifyApps - ME / KSA EAE,Rawad Zaki,1st Interview,2025-12-09
+842,Metaview,Metaview - EMEA SMB / MM leader,Jamie Glenie,CV Sent,2026-01-13
+842,Metaview,Metaview - EMEA SMB / MM leader,Malik Benzenine,1st Interview,2026-01-13
+847,Simile.ai,CS1 Simile.ai - Enterprise AE x2,Omri Nevat,3rd Interview,2026-01-13
+850,Laurel,Enterprise AE New York,Sanat Valecha,2nd Interview,2026-01-13
+865,Accel Data,Enterprise Account Executive,Rudi Willner,CV Sent,2026-01-14
+871,LaunchDarkly,Strategic AE U.S,Paul Plofchan,1st Interview,2026-01-14
+878,Dispatch,CS1 Dispatch - Enterprise AE x2,Paul Plofchan,1st Interview,2026-01-14
+878,Dispatch,CS1 Dispatch - Enterprise AE x2,Sanat Valecha,1st Interview,2026-01-09
+893,Cognition AI,RVP DACH,Patrick Siffert,1st Interview,2026-01-12
+896,Cognition AI,Cognition Founding AE France,Daniel CAMPO,1st Interview,2026-01-15
+897,Cognition AI,Cognition Founding AE Benelux,Jelte Eshuis,1st Interview,2026-01-14
+897,Cognition AI,Cognition Founding AE Benelux,Sjoerd Van Meulen,CV Sent,2026-01-13
